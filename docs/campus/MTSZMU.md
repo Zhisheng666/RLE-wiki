@@ -19,7 +19,8 @@ author:
 
 ## 概述
 
-[遵义医科大学医学与科技学院](https://mts.zmu.edu.cn/)（Medical&Technology Collage of Zunyi Medical University, MTCZMU or MTSZMU）  
+[遵义医科大学医学与科技学院](https://mts.zmu.edu.cn/)（Medical&Technology Collage of Zunyi Medical University, MTCZMU or MTSZMU）
+
 遵义医科大学医学与科技学院，简称遵医科院，是 遵义医科大学 牵头创办的一所全日制本科独立学院。
 
 ## 地理位置及交通
